@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game_single_player_mode.Plugins", "IDS_Virtual_Reality_Game_single_player_mode.Plugins.csproj", "{67950C6B-EEB3-B826-56B6-FE7F998A4702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game_single_player_mode", "IDS_Virtual_Reality_Game_single_player_mode.csproj", "{350781F9-2F45-4C08-E021-9B9F5B72849B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game_single_player_mode.Editor.Plugins", "IDS_Virtual_Reality_Game_single_player_mode.Editor.Plugins.csproj", "{396BE616-201C-3D53-8483-7A2ACC04AEF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game_single_player_mode.Editor", "IDS_Virtual_Reality_Game_single_player_mode.Editor.csproj", "{3172C7AD-6BA0-0194-7024-BFC59BA91DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67950C6B-EEB3-B826-56B6-FE7F998A4702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67950C6B-EEB3-B826-56B6-FE7F998A4702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67950C6B-EEB3-B826-56B6-FE7F998A4702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67950C6B-EEB3-B826-56B6-FE7F998A4702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350781F9-2F45-4C08-E021-9B9F5B72849B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350781F9-2F45-4C08-E021-9B9F5B72849B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350781F9-2F45-4C08-E021-9B9F5B72849B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350781F9-2F45-4C08-E021-9B9F5B72849B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396BE616-201C-3D53-8483-7A2ACC04AEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396BE616-201C-3D53-8483-7A2ACC04AEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396BE616-201C-3D53-8483-7A2ACC04AEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396BE616-201C-3D53-8483-7A2ACC04AEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3172C7AD-6BA0-0194-7024-BFC59BA91DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3172C7AD-6BA0-0194-7024-BFC59BA91DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3172C7AD-6BA0-0194-7024-BFC59BA91DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3172C7AD-6BA0-0194-7024-BFC59BA91DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

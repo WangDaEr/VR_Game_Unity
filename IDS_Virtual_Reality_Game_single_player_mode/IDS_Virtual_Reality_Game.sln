@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game.Plugins", "IDS_Virtual_Reality_Game.Plugins.csproj", "{69B32BC3-3B99-D218-C5F4-7999BB6B4CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game", "IDS_Virtual_Reality_Game.csproj", "{8DEEA6F2-15B7-E7EF-5AF6-8E55D8AFA225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game.Editor.Plugins", "IDS_Virtual_Reality_Game.Editor.Plugins.csproj", "{6F54B7A4-5CCB-C914-C58D-A60F6E00F2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS_Virtual_Reality_Game.Editor", "IDS_Virtual_Reality_Game.Editor.csproj", "{EF9C9250-B141-060F-3267-5CC2FD4CFB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B32BC3-3B99-D218-C5F4-7999BB6B4CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B32BC3-3B99-D218-C5F4-7999BB6B4CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B32BC3-3B99-D218-C5F4-7999BB6B4CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B32BC3-3B99-D218-C5F4-7999BB6B4CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEEA6F2-15B7-E7EF-5AF6-8E55D8AFA225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEEA6F2-15B7-E7EF-5AF6-8E55D8AFA225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEEA6F2-15B7-E7EF-5AF6-8E55D8AFA225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEEA6F2-15B7-E7EF-5AF6-8E55D8AFA225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F54B7A4-5CCB-C914-C58D-A60F6E00F2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F54B7A4-5CCB-C914-C58D-A60F6E00F2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F54B7A4-5CCB-C914-C58D-A60F6E00F2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F54B7A4-5CCB-C914-C58D-A60F6E00F2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9C9250-B141-060F-3267-5CC2FD4CFB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9C9250-B141-060F-3267-5CC2FD4CFB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9C9250-B141-060F-3267-5CC2FD4CFB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9C9250-B141-060F-3267-5CC2FD4CFB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
